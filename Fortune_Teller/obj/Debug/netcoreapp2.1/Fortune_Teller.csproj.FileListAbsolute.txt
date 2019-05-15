@@ -1,0 +1,11 @@
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\bin\Debug\netcoreapp2.1\Fortune_Teller.deps.json
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\bin\Debug\netcoreapp2.1\Fortune_Teller.runtimeconfig.json
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\bin\Debug\netcoreapp2.1\Fortune_Teller.runtimeconfig.dev.json
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\bin\Debug\netcoreapp2.1\Fortune_Teller.dll
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\bin\Debug\netcoreapp2.1\Fortune_Teller.pdb
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.csprojAssemblyReference.cache
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.AssemblyInfoInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.AssemblyInfo.cs
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.dll
+C:\Users\WeCanCodeIT\source\repos\Fortune_Teller\Fortune_Teller\obj\Debug\netcoreapp2.1\Fortune_Teller.pdb
